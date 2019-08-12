@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6-Aug-2019, 11:10:21 PM
+    Author     : kriss
+*/
+
+.root{
+    -fx-padding: 10px;
+    -fx-font-size: 16px;
+}
+
+#add-sell{
+    -fx-border-width: 3px;
+    -fx-border-color: green;
+    -fx-padding: 10px;
+    -fx-border-style: dotted;
+    -fx-spacing: 10;
+}
+
+.vbox{
+    -fx-spacing: 10;
+}
+
+.hbox{
+    -fx-alignment: top-right;
+    -fx-spacing: 20;
+}
+
+.button { 
+   -fx-background-color: cornflowerblue; 
+   -fx-text-fill: white; 
+   -fx-border-color: black;
+   -fx-fill-width:true;
+}
